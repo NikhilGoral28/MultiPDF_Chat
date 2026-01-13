@@ -22,8 +22,10 @@ The application follows these steps to provide responses to your questions:
 
 **App Interface:**
 
-![Screenshot 1](img/img1)  
-![Screenshot 2](img/img2)
+![Screenshot 1](./img/img1.png)  
+![Screenshot 2](./img/img2.png)
+
+---
 
 ---
 
