@@ -18,6 +18,14 @@ The application follows these steps to provide responses to your questions:
 5. **Response Generation:** The selected chunks are passed to the language model, which generates a response based on the relevant content of the PDFs.  
 
 ---
+### Screenshots
+
+**App Interface:**
+
+![Screenshot 1](img/img1)  
+![Screenshot 2](img/img2)
+
+---
 
 ## Dependencies and Installation
 
