@@ -67,7 +67,4 @@ To install and run the MultiPDF Chat App, follow these steps:
 4. Load multiple PDF documents into the app.
 5. Ask questions in natural language about the loaded PDFs using the chat interface.
 
----
-
-Do you want me to do that?
 ```
