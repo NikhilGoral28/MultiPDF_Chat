@@ -50,7 +50,7 @@ To install and run the MultiPDF Chat App, follow these steps:
 4. Obtain an OpenAI API key and add it to a `.env` file in the project directory:
 
    ```env
-   OPENAI_API_KEY=your_secret_api_key
+   GEMINI_API_KEY=your_secret_api_key
    ```
 
 ---
@@ -67,7 +67,4 @@ To install and run the MultiPDF Chat App, follow these steps:
 4. Load multiple PDF documents into the app.
 5. Ask questions in natural language about the loaded PDFs using the chat interface.
 
----
-
-Do you want me to do that?
 ```
