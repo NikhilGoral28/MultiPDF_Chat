@@ -11,7 +11,7 @@ import os
 load_dotenv()
 
 
-api_key = os.environ['groq_Api_key']
+api_key = os.environ['Api_key']
 llm = ChatGoogleGenerativeAI(
     model="gemini-3-flash-preview",
     google_api_key=api_key,
